@@ -159,7 +159,7 @@ img{
 }
 
 .nav-link{
-	color: black;
+	color: #f0a500;
 	font-weight: var(--font-semi);
 	transition: .3s;
 }
@@ -477,6 +477,7 @@ img{
 
 
 /*MEDIA QUERIES*/
+
 @media screen and (min-width: 770px){
 	body{
 		margin: 0;
